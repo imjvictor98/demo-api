@@ -12,5 +12,8 @@
             "expiresIn": 900,
             "jti": "96b3575a-e607-460b-84c5-35b7204c6af6"
         }
+    },
+    "register": {
+        "registered": true
     }
 }
