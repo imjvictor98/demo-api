@@ -5,12 +5,6 @@
     "verify": {
         "authTokens": {
             "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcGYiOiIxMDE0NDg4NjcyMyIsImVtYWlsIjoiam9uYXRoYW4uc291emFAYWtyb3NzLmNvbS5iciIsIm5vbWUiOiJCUlVOTyBPTElWRUlSQSIsImxvZ2luIjoiam9uYXRoYW4uc291emFAYWtyb3NzLmNvbS5iciIsInRpcG8iOiJPaUZpYnJhIiwiY29udGFCbG9xdWVhZGEiOmZhbHNlLCJjb250YUNvbmZpcm1hZGEiOnRydWUsInRva2VuIjoiNmQ4MTJhYzItNDRmNi0zNDk0LTg5NmQtZjAwZDBlZWZhMjY3IiwidXNlcklkV1NPMiI6IjFmNWU2NjNjLTg0MmItNDhjNS05Y2M2LTBlOGM1NjZhNjY1ZCIsInR5cGUiOiJhY2Nlc3MiLCJpYXQiOjE3NjM3NDUxNTcsImV4cCI6MTc2MzgzMTU1N30.6iU3qMNzYf5ByXHJNKjV-GHOujNcQnV0r_6U67R8fDw"
-        },
-        "biometricToken": {
-            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcGYiOiIxMDE0NDg4NjcyMyIsImVtYWlsIjoiam9uYXRoYW4uc291emFAYWtyb3NzLmNvbS5iciIsIm5vbWUiOiJCUlVOTyBPTElWRUlSQSIsImxvZ2luIjoiam9uYXRoYW4uc291emFAYWtyb3NzLmNvbS5iciIsInRpcG8iOiJPaUZpYnJhIiwiY29udGFCbG9xdWVhZGEiOmZhbHNlLCJjb250YUNvbmZpcm1hZGEiOnRydWUsInRva2VuIjoiNmQ4MTJhYzItNDRmNi0zNDk0LTg5NmQtZjAwZDBlZWZhMjY3IiwidXNlcklkV1NPMiI6IjFmNWU2NjNjLTg0MmItNDhjNS05Y2M2LTBlOGM1NjZhNjY1ZCIsInR5cGUiOiJhY2Nlc3MiLCJpYXQiOjE3NjM3NDUxNTcsImV4cCI6MTc2MzgzMTU1N30.6iU3qMNzYf5ByXHJNKjV-GHOujNcQnV0r_6U67R8fDw",
-            "type": "Bearer",
-            "expiresIn": 900,
-            "jti": "96b3575a-e607-460b-84c5-35b7204c6af6"
         }
     },
     "registerBio": {
